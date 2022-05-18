@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MakcFaktor
+- 👋 Hi, I’m Makcim Motruk
 - 👀 I'm interested in programming
 - 🌱 I'm now self-taught in my spare time
 - 💞️ I want to collaborate on a project in a productive company
